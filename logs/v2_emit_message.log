@@ -1,0 +1,8 @@
+2024-05-13 16:03:33,383.v2_emit_message.INFO ==================================================
+2024-05-13 16:03:33,383.v2_emit_message.INFO Today is 2024-05-13 at 04:03 PM
+2024-05-13 16:03:33,384.v2_emit_message.INFO Running on: nt Windows 10
+2024-05-13 16:03:33,384.v2_emit_message.INFO Python version:  3.11.5
+2024-05-13 16:03:33,384.v2_emit_message.INFO Python path: C:\Users\cjack\OneDrive\Documents\GitHub\streaming-03-rabbitmq\.venv
+2024-05-13 16:03:33,384.v2_emit_message.INFO Working dir: C:\Users\cjack\OneDrive\Documents\GitHub\streaming-03-rabbitmq
+2024-05-13 16:03:33,385.v2_emit_message.INFO ==================================================
+2024-05-13 16:03:33,418.v2_emit_message.INFO  [x] Sent I Did the thing!!!
